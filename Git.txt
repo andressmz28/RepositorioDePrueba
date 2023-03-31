@@ -1,4 +1,3 @@
 Git
-Prueba de cambios de Git
-
+Prueba de comandos de Git
 aqui podre hacer pruebas de Git
