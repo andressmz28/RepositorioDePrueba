@@ -1,3 +1,7 @@
 Git
 Prueba de comandos de Git
 aqui podre hacer pruebas de Git
+
+veremos una prueba para que no se haga commit 
+de algunos cambios
+
